@@ -13,7 +13,8 @@ public class ConsoleOutput {
 		System.out.print("안녕 \n");	//\n : Enter
 		System.out.println("하세요. ");
 		
-		
+		System.out.prinln ("새로운 내용 추가");
+
 	}
 	
 }
